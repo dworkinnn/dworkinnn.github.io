@@ -15,7 +15,7 @@ If you like the space arrows to survive, Firefly is what you are looking for.
 #### Platforms ####
 * IOS - [App Store](https://itunes.apple.com/us/app/firefly-up/id1329494961?l=ru&ls=1&mt=8)
 * Android - [Google Play](https://play.google.com/store/apps/details?id=com.carlcori.firefly) 
-* WebGL - [Browser Game](https://dworkinnbarimen.github.io/)
+* WebGL - [Browser Game](https://dworkinnn.github.io/)
 
 #### Version 1.1.14 ####
 * added localization: russian, english;
