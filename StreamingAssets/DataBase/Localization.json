@@ -1,0 +1,99 @@
+{
+    "Items": [
+        {
+            "Id": 0,
+            "Russian": "Солнечная систеема — планетная система, включающая в себя центральную звезду — Солнце — и все естественные космические объекты, вращающиеся вокруг Солнца. Она сформировалась путём гравитационного сжатия газопылевого облака примерно 4,57 млрд лет назад.",
+            "English": "The Solar System is the gravitationally bound system comprising the Sun and the objects that orbit it, either directly or indirectly. Of those objects that orbit the Sun directly, the largest eight are the planets, with the remainder being smaller objects, such as dwarf planets and small Solar System bodies. Of the objects that orbit the Sun indirectly, the moons, two are larger than the smallest planet, Mercury."
+        },
+        {
+            "Id": 1,
+            "Russian": "Земля — третья от Солнца планета. Пятая по размеру среди всех планет Солнечной системы. Она является также крупнейшей по диаметру, массе и плотности среди планет земной группы. Единственное известное человеку на данный момент тело Солнечной системы в частности и Вселенной вообще, населённое живыми организмами.",
+            "English": "Earth is the third planet from the Sun and the only object in the Universe known to harbor life. According to radiometric dating and other sources of evidence, Earth formed over 4 billion years ago. Earth's gravity interacts with other objects in space, especially the Sun and the Moon, Earth's only natural satellite. Earth revolves around the Sun in 365.26 days, a period known as an Earth year."
+        },
+        {
+            "Id": 2,
+            "Russian": "Млечный Путь — галактика, в которой находятся Земля, Солнечная система и все отдельные звёзды, видимые невооружённым глазом.\r\nМлечный Путь вместе с Галактикой Андромеды (М31), Галактикой Треугольника (М33) и более чем 40 карликовыми галактиками-спутниками — своими и Андромеды — образуют Местную Группу галактик, которая входит в Местное Сверхскопление (Сверхскопление Девы).",
+            "English": "The Milky Way is the galaxy that contains our Solar System. The descriptive \"milky\" is derived from the appearance from Earth of the galaxy – a band of light seen in the night sky formed from stars that cannot be individually distinguished by the naked eye. Galileo Galilei first resolved the band of light into individual stars with his telescope in 1610. Until the early 1920s, most astronomers thought that the Milky Way contained all the stars in the Universe."
+        },
+        {
+            "Id": 3,
+            "Russian": "ИГРА",
+            "English": "PLAY"
+        },
+        {
+            "Id": 4,
+            "Russian": "ДАННЫЕ",
+            "English": "STATS"
+        },
+        {
+            "Id": 5,
+            "Russian": "НАСТРОЙКИ",
+            "English": "SETTINGS"
+        },
+        {
+            "Id": 6,
+            "Russian": "МУЗЫКА",
+            "English": "SOUNDS"
+        },
+        {
+            "Id": 7,
+            "Russian": "ЧАСТИЦЫ",
+            "English": "PARTICLES"
+        },
+        {
+            "Id": 8,
+            "Russian": "ПОДЕЛИТЬСЯ",
+            "English": "SHARE"
+        },
+        {
+            "Id": 9,
+            "Russian": "СТАТИСТИКА",
+            "English": "STATISTICS"
+        },
+        {
+            "Id": 10,
+            "Russian": "Общее время:",
+            "English": "Game Time:"
+        },
+        {
+            "Id": 11,
+            "Russian": "Очки:",
+            "English": "Score:"
+        },
+        {
+            "Id": 12,
+            "Russian": "Комбо Х:",
+            "English": "Combo X:"
+        },
+        {
+            "Id": 13,
+            "Russian": "Уничтожено:",
+            "English": "Destroyed:"
+        },
+        {
+            "Id": 14,
+            "Russian": "ДВОЙНОЕ ОРУЖИЕ",
+            "English": "DOUBLE WEAPON"
+        },
+        {
+            "Id": 15,
+            "Russian": "ТРОЙНОЕ ОРУЖИЕ",
+            "English": "TRIPLE WEAPON"
+        },
+        {
+            "Id": 16,
+            "Russian": "ЯЗЫК",
+            "English": "LANGUAGE"
+        },
+        {
+            "Id": 17,
+            "Russian": "Ошибка загрузки данных",
+            "English": "Error loading data"
+        },
+        {
+            "Id": 18,
+            "Russian": "Данные загружены",
+            "English": "Data uploaded"
+        }
+    ]
+}
